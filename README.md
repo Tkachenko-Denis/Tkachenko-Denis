@@ -48,7 +48,6 @@
 
 ## Education
 
-- 
 - **Data Scientist** — INO СPE “Yandex EdTech,” April 2023
 - [**Data Scientist Associate with Python**](https://www.datacamp.com/certificate/DSA0018280066431) — DataCamp, January 2023
 - **Specialist Degree in Telecommunications** — St. Petersburg State University of Telecommunications, July 2018
