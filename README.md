@@ -12,7 +12,6 @@
 ### Technical Skills:
 - Programming Languages: Python, SQL  
 - Libraries:
-  - Databases: PySpark
   - Data Manipulation: pandas, NumPy
   - Data Visualization: Matplotlib, seaborn
   - Statistics/Mathematics: SciPy
