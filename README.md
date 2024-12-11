@@ -1,5 +1,3 @@
-# Denis Tkachenko
-
 ## About
  
 **Contact Information:**  
