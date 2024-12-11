@@ -1,78 +1,81 @@
-## Шапка
+# Denis Tkachenko
 
-**Полное имя:** Denis Tkachenko  
-**Контактные данные:**  
+## About
+ 
+**Contact Information:**  
 - Telegram: [@Denis_Tkachenk0](https://t.me/Denis_Tkachenk0)  
 - Email: denv.tkachenko@gmail.com  / devltkachenko@edu.hse.ru
-- Телефон: +31644939016
-- **Желаемая должность:** Data Engineer 
+- Mobile: +31644939016
+
 ---
 
-## Навыки
+## Skills
 
-### Технические навыки:
-- Языки программирования: Python, SQL  
-- Библиотеки:
-  - Базы данных: PySpark
-  - Работа с данными: pandas, NumPy
-  - Визуализация данных: Matplotlib, seaborn, ggplot2
-  - Статистика/математика: SciPy
-- Среды программирования: Jupyter Lab, Jupyter Notebook, PyCharm, Google Colab  
-- Система контроля версий: Git  
-- Управление проектами: Trello, Notion, Asana, Slack, Jira  
+### Technical Skills:
+- Programming Languages: Python, SQL  
+- Libraries:
+  - Databases: PySpark
+  - Data Manipulation: pandas, NumPy
+  - Data Visualization: Matplotlib, seaborn
+  - Statistics/Mathematics: SciPy
+- Programming Environments: Jupyter Lab, Jupyter Notebook, PyCharm, Google Colab  
+- Version Control: Git  
+- Project Management: Trello, Notion, Asana, Slack, Jira  
 
 ### Soft Skills:
-- Аналитическое мышление
-- Умение работать в команде
-- Внимание к деталям
-- Гибкость и адаптивность
+- Analytical Thinking
+- Team Collaboration
+- Attention to Detail
+- Flexibility and Adaptability
 
 ---
 
-## Опыт работы
+## Work Experience
 
-### Middle Technical Support Manager — LLC GAMETEQ, Май 2023 – Сейчас
-- Написал Python-скрипты в среде Jupyter Hub для автоматизации процессов начисления и изъятия внутриигровых ценностей, чем увеличил скорость обработки тикетов.
-- Решал задачи по анализу игровых логов для своевременного выявления внутренних ошибок.
+### Middle Technical Support Manager — LLC GAMETEQ, May 2023 – Present
+- Developed Python scripts in Jupyter Hub to automate processes for granting and revoking in-game values, significantly speeding up ticket resolution.
+- Conducted game log analysis to identify internal errors promptly.
 
-### Младший научный сотрудник — Центр когнитивных исследований, Университет Сириус, Дек 2021 – Нояб 2022
-- Участвовал в двух исследовательских проектах, в которых разработал и реализовал среду синхронного сбора данных (данные ЭЭГ, повторы игр, фотографии, табличные данные, видеоданные).
-- Проводил техническое наставничество 10 членов исследовательской группы по процессам сбора данных.
-- Написал скрипт на Python, который конвертирует стандартную систему хранения данных в международный стандарт BIDS.
-- Проводил статистический анализ данных (ANOVA, кластерный, регрессионный, факторный), результаты которого легли в основу нескольких научных статей.
+### Junior Research Associate — Center for Cognitive Research, Sirius University, Dec 2021 – Nov 2022
+- Participated in two research projects, developing and implementing an environment for synchronous data collection (EEG, game repetitions, photos, tabular data, video data).
+- Provided technical mentorship to 10 team members on data collection processes.
+- Created a Python script to convert a standard data storage system into the international BIDS format.
+- Conducted statistical analyses (ANOVA, clustering, regression, factor analysis), which formed the basis of several research papers.
 
-### Стажер-исследователь — Лаборатория междисциплинарных исследований в области развития человека, СПбГУ, Авг 2021 – Дек 2021
-- Собрал данные ЭЭГ с 20+ испытуемых.
-- Написал скрипт на Python для очистки сырых данных.
-- Собирал текстовую информацию и оцифровывал её для дальнейшего анализа.
-
----
-
-## Образование
-
-- **Data Scientist** — INO СPE “Yandex EdTech”, Апрель 2023
-- **Data Scientist Associate with Python** — DataCamp, Январь 2023
-- **Specialist degree in Telecommunications** — СПбГУТ, Июль 2018
+### Research Intern — Laboratory of Interdisciplinary Studies in Human Development, St. Petersburg State University, Aug 2021 – Dec 2021
+- Collected EEG data from over 20 participants.
+- Wrote a Python script for cleaning raw data.
+- Gathered and digitized textual information for further analysis.
 
 ---
 
-## Сертификаты
+## Education
+
+- **Data Scientist** — INO СPE “Yandex EdTech,” April 2023
+- **Data Scientist Associate with Python** — DataCamp, January 2023
+- **Specialist Degree in Telecommunications** — St. Petersburg State University of Telecommunications, July 2018
+
+---
+
+## Certifications
 - Data Analyst with Python
 - Fundamentals of Statistics
-- Python programming
-- Programming and development web applications
+- Python Programming
+- Programming and Development of Web Applications
 - Advanced Python 3
 
 ---
 
-## Хобби
-- Ролики
-- Коньки
-- Настольный теннис
+## Hobbies
+- Rollerblading
+- Ice Skating
+- Table Tennis
 
 ---
 
-## Языки
-- Русский (родной)
-- Английский (B2)
-- Французский (A2)
+## Languages
+- Russian (native)
+- English (B2)
+- French (A2)
+
+---
