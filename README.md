@@ -48,18 +48,19 @@
 
 ## Education
 
+- 
 - **Data Scientist** — INO СPE “Yandex EdTech,” April 2023
-- **Data Scientist Associate with Python** — DataCamp, January 2023
+- [**Data Scientist Associate with Python**](https://www.datacamp.com/certificate/DSA0018280066431) — DataCamp, January 2023
 - **Specialist Degree in Telecommunications** — St. Petersburg State University of Telecommunications, July 2018
 
 ---
 
 ## Certifications
-- Data Analyst with Python
-- Fundamentals of Statistics
-- Python Programming
-- Programming and Development of Web Applications
-- Advanced Python 3
+- [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/380140e0f506fb3c385ef0f89be252a24ae0d53b)
+- [Fundamentals of Statistics](https://stepik.org/cert/1726402)
+- [Python Programming](https://stepik.org/cert/1271437)
+- [Programming and Development of Web Applications](https://de.ifmo.ru/certificates/c50141a563d34ca9.pdf)
+- [Advanced Python 3](https://www.codecademy.com/profiles/mad_weaver/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4)
 
 ---
 
