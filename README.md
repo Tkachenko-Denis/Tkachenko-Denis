@@ -30,7 +30,7 @@
 ## Work Experience
 
 ### Middle Technical Support Manager — LLC GAMETEQ, May 2023 – Present
-- Developed Python scripts in Jupyter Hub to automate processes for granting and revoking in-game values, significantly speeding up ticket resolution.
+- Developed Python scripts to automate processes for granting and revoking in-game values, significantly speeding up ticket resolution.
 - Conducted game log analysis to identify internal errors promptly.
 
 ### Junior Research Associate — Center for Cognitive Research, Sirius University, Dec 2021 – Nov 2022
