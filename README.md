@@ -1,6 +1,6 @@
 # Denis Tkachenko
 
-## Abount
+## About
  
 **Контактные данные:**
 - Телеграм: https://t.me/Denis_Tkachenk0
