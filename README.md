@@ -40,12 +40,14 @@ Python (Pandas, NumPy, FastAPI), Java, SQL, Apache Spark (PySpark), REST APIs, d
 ## Education
 
 ### Master’s in data engineering (expected July 2026)
-### HSE University - Moscow, Russia
-### Sep 2024 - July 2026
+HSE University - Moscow, Russia
+
+Sep 2024 - July 2026
 
 ### Specialist in telecommunications
-### The Bonch-Bruevich Saint-Petersburg State University of Telecommunications - Saint-Petersburg, Russia
-### Sep 2013 - July 2018
+The Bonch-Bruevich Saint-Petersburg State University of Telecommunications - Saint-Petersburg, Russia
+
+Sep 2013 - July 2018
 
 ---
 
