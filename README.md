@@ -9,70 +9,48 @@
 
 ## Skills
 
-### Technical Skills:
-- Programming Languages: Python, SQL  
-- Libraries:
-  - Data Manipulation: pandas, NumPy
-  - Data Visualization: Matplotlib, seaborn
-  - Statistics/Mathematics: SciPy
-- Programming Environments: Jupyter Lab, Jupyter Notebook, PyCharm, Google Colab  
-- Version Control: Git  
-- Project Management: Trello, Notion, Asana, Slack, Jira  
-
-### Soft Skills:
-- Analytical Thinking
-- Team Collaboration
-- Attention to Detail
-- Flexibility and Adaptability
+Python (Pandas, NumPy, FastAPI), Java, SQL, Apache Spark (PySpark), REST APIs, data cleaning/validation, Bash, Apache Airflow, GitLab CI/CD, Apache Kafka, MQTT (Eclipse Mosquitto), Apache NiFi, PostgreSQL, ClickHouse, MongoDB, JupyterLab, Jupyter Notebook, Apache Superset, Matplotlib, Docker, Linux, Git, ETL/ELT, batch processing & streaming, data modeling (star/snowflake, normalization), testing (pytest), documentation, reproducibility, code review, Azure (ADLS, Synapse, Event Hubs), Databricks, Yandex Cloud (S3-compatible Object Storage, Data Proc)
 
 ---
 
 ## Work Experience
 
-### Middle Technical Support Manager — LLC GAMETEQ, May 2023 – Present
-- Developed Python scripts to automate processes for granting and revoking in-game values, significantly speeding up ticket resolution.
-- Conducted game log analysis to identify internal errors promptly.
+### Software Engineer (Data Engineering focus)
+### LLC GAMETEQ - Tbilisi, Georgia
+### May 2023 - Present
+- Designed and implemented an Airflow-based data pipeline to automate daily scripts; wrote and scheduled 5 DAGs (Python, Airflow, GitLab), improving reliability and transparency of scheduled jobs.
+- Built unified analytics scripts to extract and analyze heterogeneous game logs (Python, JupyterHub, ClickHouse); served the LiveOps team, accelerating ad-hoc analysis and reducing manual work.
+- Developed and deployed an automated in-game rewards accrual system (Python, pandas, pytest, logging, requests, Google Apps, GIT), eliminated manual work which increased processing speed by 68%.
 
-### Junior Research Associate — Center for Cognitive Research, Sirius University, Dec 2021 – Nov 2022
-- Participated in two research projects, developing and implementing an environment for synchronous data collection (EEG, game repetitions, photos, tabular data, video data).
-- Provided technical mentorship to 10 team members on data collection processes.
-- Created a Python script to convert a standard data storage system into the international BIDS format.
-- Conducted statistical analyses (ANOVA, clustering, regression, factor analysis), which formed the basis of several research papers.
+### Junior research fellow
+### Cognitive Research Center of Sirius University - Sochi, Russia
+### Dec 2021 - Apr 2023
+-	Engineered a simultaneous data collection environment for multimodal signals (EEG, game replays, photos, tabular, video) and coordinated data acquisition for 100+ participants.
+- Provided technical mentoring to ~10 team members on data pipelines and handling; created checklists and SOPs to streamline work and prevent errors, including data loss during collection.
+- Designed reproducible multimodal data pipeline with Python and enforced data standards (BIDS).
+- Wrote Python scripts for EEG analysis using MNE-Python; processed data for ~15 dyads.
 
-### Research Intern — Laboratory of Interdisciplinary Studies in Human Development, St. Petersburg State University, Aug 2021 – Dec 2021
-- Collected EEG data from over 20 participants.
-- Wrote a Python script for cleaning raw data.
-- Gathered and digitized textual information for further analysis.
+### Middle Security Specialist
+### Fisht Stadium - Sochi, Russia
+### Feb 2020 - Nov 2021
+-	Managed data capture and maintenance for security devices; coordinated repairs of 10 X-ray units.
 
 ---
 
 ## Education
 
-- **Data Scientist** — INO СPE “Yandex EdTech,” April 2023
-- [**Data Scientist Associate with Python**](https://www.datacamp.com/certificate/DSA0018280066431) — DataCamp, January 2023
-- **Specialist Degree in Telecommunications** — St. Petersburg State University of Telecommunications, July 2018
+### Master’s in data engineering (expected July 2026)
+### HSE University - Moscow, Russia
+### Sep 2024 - July 2026
 
----
-
-## Certifications
-- [Data Analyst with Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/380140e0f506fb3c385ef0f89be252a24ae0d53b)
-- [Fundamentals of Statistics](https://stepik.org/cert/1726402)
-- [Python Programming](https://stepik.org/cert/1271437)
-- [Programming and Development of Web Applications](https://de.ifmo.ru/certificates/c50141a563d34ca9.pdf)
-- [Advanced Python 3](https://www.codecademy.com/profiles/mad_weaver/certificates/9360ffd5f85216dc4fbe5b19fe1db5e4)
-
----
-
-## Hobbies
-- Rollerblading
-- Ice Skating
-- Table Tennis
+### Specialist in telecommunications
+### The Bonch-Bruevich Saint-Petersburg State University of Telecommunications - Saint-Petersburg, Russia
+### Sep 2013 - July 2018
 
 ---
 
 ## Languages
 - Russian (native)
-- English (B2)
-- French (A2)
+- English (C1)
 
 ---
