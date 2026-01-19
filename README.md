@@ -35,7 +35,7 @@ Dec 2021 - Apr 2023
 ### Middle Security Specialist
 Fisht Stadium - Sochi, Russia
 
-Feb 2020 - Nov 2021
+Feb 2019 - Nov 2021
 -	Managed data capture and maintenance for security devices; coordinated repairs of 10 X-ray units.
 
 ---
