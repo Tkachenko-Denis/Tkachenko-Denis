@@ -7,6 +7,11 @@
 
 ---
 
+## Summary
+Software Engineer with 4+ years of experience in Python/SQL, production orchestration (Airflow), and data processing (PostgreSQL, ClickHouse, Kafka). Built automated pipelines and internal tooling for product analytics and live operations, including end-to-end automation that reduced manual work. Experienced in data standards, reproducibility, and clear technical documentation. 
+
+---
+
 ## Skills
 
 Python (Pandas, NumPy, FastAPI), Java, SQL, Apache Spark (PySpark), REST APIs, data cleaning/validation, Bash, Apache Airflow, GitLab CI/CD, Apache Kafka, MQTT (Eclipse Mosquitto), Apache NiFi, PostgreSQL, ClickHouse, MongoDB, JupyterLab, Jupyter Notebook, Apache Superset, Matplotlib, Docker, Linux, Git, ETL/ELT, batch processing & streaming, data modeling (star/snowflake, normalization), testing (pytest), documentation, reproducibility, code review, Azure (ADLS, Synapse, Event Hubs), Databricks, Yandex Cloud (S3-compatible Object Storage, Data Proc)
@@ -15,13 +20,14 @@ Python (Pandas, NumPy, FastAPI), Java, SQL, Apache Spark (PySpark), REST APIs, d
 
 ## Work Experience
 
-### Software Engineer (Data Engineering focus)
+### Software Engineer
 LLC GAMETEQ - Tbilisi, Georgia
 
 May 2023 - Present
-- Designed and implemented an Airflow-based data pipeline to automate daily scripts; wrote and scheduled 5 DAGs (Python, Airflow, GitLab), improving reliability and transparency of scheduled jobs.
-- Built unified analytics scripts to extract and analyze heterogeneous game logs (Python, JupyterHub, ClickHouse); served the LiveOps team, accelerating ad-hoc analysis and reducing manual work.
-- Developed and deployed an automated in-game rewards accrual system (Python, pandas, pytest, logging, requests, Google Apps, GIT), eliminated manual work which increased processing speed by 68%.
+-	Designed and implemented an Airflow-based automation layer for daily production jobs; delivered 5 Python DAGs and GitLab CI/CD workflows, improving reliability and transparency of scheduled operations.
+-	Built data processing and analytics scripts for heterogeneous event logs stored in ClickHouse; enabled faster ad-hoc analysis for the LiveOps team and reduced manual effort.
+-	Partnered with the L2 support team to build a ticket-tag processing handler for rapid triage and escalation during spikes in inbound user requests.
+-	Developed and deployed an automated rewards accrual service (Python, pandas) with API integrations (requests, Google Apps), logging, and unit tests (pytest); removed manual work and increased processing speed by 68%.
 
 ### Junior research fellow
 Cognitive Research Center of Sirius University - Sochi, Russia
@@ -32,25 +38,26 @@ Dec 2021 - Apr 2023
 - Designed reproducible multimodal data pipeline with Python and enforced data standards (BIDS).
 - Wrote Python scripts for EEG analysis using MNE-Python; processed data for ~15 dyads.
 
-### Middle Security Specialist
+## Additional experience
+### Security Systems Technician
 Fisht Stadium - Sochi, Russia
-
 Feb 2019 - Nov 2021
--	Managed data capture and maintenance for security devices; coordinated repairs of 10 X-ray units.
 
 ---
 
 ## Education
 
-### Master’s in data engineering (expected July 2026)
-HSE University - Moscow, Russia
-
+### Master’s in Data Engineering (expected July 2026)
+National Research University Higher School of Economics (HSE University) - Moscow, Russia (remotely, evening classes)
 Sep 2024 - July 2026
 
-### Specialist in telecommunications
+### Specialist in Telecommunications
 The Bonch-Bruevich Saint-Petersburg State University of Telecommunications - Saint-Petersburg, Russia
-
 Sep 2013 - July 2018
+
+## Certification
+Data Engineer – DataCamp (obtained 2025)
+Advanced Python 3 – Codecademy (obtained 2024)
 
 ---
 
