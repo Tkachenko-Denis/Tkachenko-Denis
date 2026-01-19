@@ -41,6 +41,7 @@ Dec 2021 - Apr 2023
 ## Additional experience
 ### Security Systems Technician
 Fisht Stadium - Sochi, Russia
+
 Feb 2019 - Nov 2021
 
 ---
@@ -49,14 +50,17 @@ Feb 2019 - Nov 2021
 
 ### Master’s in Data Engineering (expected July 2026)
 National Research University Higher School of Economics (HSE University) - Moscow, Russia (remotely, evening classes)
+
 Sep 2024 - July 2026
 
 ### Specialist in Telecommunications
 The Bonch-Bruevich Saint-Petersburg State University of Telecommunications - Saint-Petersburg, Russia
+
 Sep 2013 - July 2018
 
 ## Certification
 Data Engineer – DataCamp (obtained 2025)
+
 Advanced Python 3 – Codecademy (obtained 2024)
 
 ---
